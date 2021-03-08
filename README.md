@@ -27,7 +27,11 @@ see detailed EDA <a href="https://nbviewer.jupyter.org/github/richakbee/Demand-F
 
 ## Outlier Detection
 
-<img src="https://github.com/richakbee/Demand-Forecasting/blob/main/images/out2.jpg"/> <img src="https://github.com/richakbee/Demand-Forecasting/blob/main/images/out1.jpg"/>
+<img src="https://github.com/richakbee/Demand-Forecasting/blob/main/images/out2.jpg"/> 
+
+## Outlier Removal
+
+<img src="https://github.com/richakbee/Demand-Forecasting/blob/main/images/out1.jpg"/>
 
 ## Modelling
 
