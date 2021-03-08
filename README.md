@@ -37,7 +37,7 @@ see detailed EDA <a href="https://nbviewer.jupyter.org/github/richakbee/Demand-F
 
 <img src="https://github.com/richakbee/Demand-Forecasting/blob/main/images/learning%20curve.jpg"/>
 
-<hr>
+## Prediction and comparison
 
 <img src="https://github.com/richakbee/Demand-Forecasting/blob/main/images/model%20comp.jpg"/>
 
