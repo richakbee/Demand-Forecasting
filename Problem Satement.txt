@@ -17,9 +17,7 @@ Data Description :You are provided hourly rental data spanning two years. For th
 Link to Data :https://www.kaggle.com/c/bike-sharing-demand/data
 
 
-Final deliverable :
-                   A fully functioning ,ready to  use app. 
-                   A presentation for stake holders .
+
  
  
  
